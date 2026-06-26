@@ -1,0 +1,8 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "flowpilot-saas-landing-live",
+  "compatibility_date": "2026-06-26",
+  "assets": {
+    "directory": "./out"
+  }
+}
